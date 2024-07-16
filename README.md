@@ -1,2 +1,2 @@
-# 3kmeters.android.client.download
+# 3kmeters
 Welcome to download.
